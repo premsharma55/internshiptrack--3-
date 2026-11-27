@@ -1,0 +1,6 @@
+{
+  "name": "InternTrack — Student Internship Tracker",
+  "description": "A centralized full-stack dashboard for college students to manage, track, and monitor internship applications, interviews, deadlines, and resumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
